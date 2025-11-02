@@ -23,7 +23,7 @@ targets:
         CFBundleDisplayName: "KS Counter"
         CFBundleName: "kitchensync"
         CFBundleVersion: "1"
-        CFBundleShortVersionString: "1.0.1"
+        CFBundleShortVersionString: "1.0.2"
         UILaunchStoryboardName: "LaunchScreen"
         NSPrincipalClass: "UIApplication"
         NSAppTransportSecurity:
